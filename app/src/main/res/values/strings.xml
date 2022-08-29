@@ -1,0 +1,321 @@
+<resources>
+    <string name="app_name">Radionica</string>
+
+    <string-array name="Usluge">
+        <item>Izaberite uslugu/majstora: </item>
+        <item>Armirač </item>
+        <item>Bravar-monter </item>
+        <item>Varioc </item>
+        <item>Gipsar </item>
+        <item>Gradjevinski limar </item>
+        <item>Gradjevinski stolar </item>
+        <item>Zidar </item>
+        <item>Izolater </item>
+        <item>Izrada bazena i fontana</item>
+        <item>Keramičar </item>
+        <item>Moler </item>
+        <item>Parketar </item>
+        <item>Pomoćni radnik </item>
+        <item>Postavljanje podnih površina </item>
+        <item>Sečenje i bušenje </item>
+        <item>Tesar </item>
+        <item>Fasader </item>
+        <item>Vikler elektromotora </item>
+        <item>Električar </item>
+        <item>Monter klima uredjaja </item>
+        <item>Serviser liftova </item>
+        <item>Serviser mobilnih telefona </item>
+        <item>Serviser računara </item>
+        <item>Baštovan </item>
+        <item>Visinski radnik </item>
+        <item>Drvoseča </item>
+        <item>Odžačar </item>
+        <item>Perač podnih površina </item>
+        <item>Perač fasada </item>
+        <item>Spremačica </item>
+        <item>Haus majstor</item>
+        <item>Domar </item>
+        <item>Čistač </item>
+        <item>Vodoinstalater </item>
+        <item>Monter grejnih instalacija </item>
+        <item>Grnčar </item>
+        <item>Kamenorezac </item>
+        <item>Ključar </item>
+        <item>Kovač </item>
+        <item>Livac </item>
+        <item>Mašin-bravar </item>
+        <item>Metaloglodač </item>
+        <item>Metalooštrač </item>
+        <item>Metalostrugar </item>
+        <item>Pečatorezac </item>
+        <item>Površinska obrada </item>
+        <item>Staklorezac </item>
+        <item>Stolar </item>
+        <item>Tapetar </item>
+        <item>Uramljivač </item>
+        <item>Juvelir</item>
+        <item>Zlatar </item>
+        <item>Krznar </item>
+        <item>Krojač </item>
+        <item>Mašinski vez </item>
+        <item>Obućar </item>
+        <item>Ručni vez </item>
+        <item>Sajdžija</item>
+        <item>Časovničar </item>
+        <item>Serviser šivaćih mašina </item>
+        <item>Tašner </item>
+        <item>Šeširdžija </item>
+        <item>Auto bravar </item>
+        <item>Auto grafičar</item>
+        <item>Auto električar </item>
+        <item>Auto limar </item>
+        <item>Auto mehaničar </item>
+        <item>Auto perač </item>
+        <item>Auto plastičar </item>
+        <item>Auto stakla </item>
+        <item>Auto tapetar </item>
+        <item>Vulkanizer </item>
+        <item>Serviser auspuha </item>
+        <item>Serviser autogas sistema </item>
+        <item>Serviser motocikala </item>
+        <item>Serviser trapa </item>
+        <item>Šlep služba </item>
+        <item>Vozač </item>
+        <item>Grafičar </item>
+        <item>Ikonopisac </item>
+        <item>Serviser za bicikle </item>
+        <item>Serviser medicinske opreme </item>
+        <item>Ski serviser </item>
+        <item>Transport selidbi </item>
+        <item>Fizički radnik </item>
+        <item>Firmopisac </item>
+    </string-array>
+
+
+    <string-array name="Grad">
+        <item>Izaberite grad:</item>
+        <item>Ada </item>
+        <item>Aleksandrovac </item>
+        <item>Aleksinac </item>
+        <item>Alibunar  </item>
+        <item>Apatin </item>
+        <item>Aranđelovac </item>
+        <item>Arilje </item>
+        <item>Babušnica </item>
+        <item>Bajina Bašta </item>
+        <item>Banja Koviljača </item>
+        <item>Banja Vrujci </item>
+        <item>Barič </item>
+        <item>Batajnica </item>
+        <item>Batočina </item>
+        <item>Bač </item>
+        <item>Bačka Palanka </item>
+        <item>Bačka Topola </item>
+        <item>Bački Petrovac </item>
+        <item>Bela Crkva </item>
+        <item>Bela Palanka </item>
+        <item>Beograd </item>
+        <item>Beočin </item>
+        <item>Bečej </item>
+        <item>Blace </item>
+        <item>Bogatić </item>
+        <item>Bojnik </item>
+        <item>Boljevac </item>
+        <item>Bor </item>
+        <item>Bosilegrad </item>
+        <item>Brus </item>
+        <item>Bujanovac </item>
+        <item>Busije </item>
+        <item>Crna Trava </item>
+        <item>Crvenka </item>
+        <item>Danilovgrad </item>
+        <item>Despotovac </item>
+        <item>Despotovo </item>
+        <item>Dečani </item>
+        <item>Dimitrovgrad </item>
+        <item>Doljevac </item>
+        <item>Donji Milanovac </item>
+        <item>Feketić </item>
+        <item>Futog </item>
+        <item>Gadžin Han </item>
+        <item>Gajdobra </item>
+        <item>Glogovac </item>
+        <item>Gnjilane </item>
+        <item>Golubac </item>
+        <item>Gora </item>
+        <item>Gornji Milanovac </item>
+        <item>Horgoš </item>
+        <item>Inostranstvo </item>
+        <item>Inđija </item>
+        <item>Irig </item>
+        <item>Istok </item>
+        <item>Ivangrad</item>
+        <item>Ivanjica </item>
+        <item>Jagodina </item>
+        <item>Kanjiža </item>
+        <item>Kać </item>
+        <item>Kačanik </item>
+        <item>Kikinda </item>
+        <item>Kladovo </item>
+        <item>Klina </item>
+        <item>Knić </item>
+        <item>Knjaževac </item>
+        <item>Koceljeva </item>
+        <item>Kopaonik </item>
+        <item>Kosjerić </item>
+        <item>Kosovo Polje </item>
+        <item>Kosovska Kamenica </item>
+        <item>Kosovska Mitrovica </item>
+        <item>Kovačica </item>
+        <item>Kovin </item>
+        <item>Kragujevac </item>
+        <item>Kraljevo</item>
+        <item>Krupanj </item>
+        <item>Kruševac </item>
+        <item>Kula </item>
+        <item>Kuršumlija </item>
+        <item>Kučevo </item>
+        <item>Lajkovac </item>
+        <item>Lapovo </item>
+        <item>Lazarevac </item>
+        <item>Lebane </item>
+        <item>Leposavić </item>
+        <item>Leskovac </item>
+        <item>Leštane </item>
+        <item>Lipljan </item>
+        <item>Ljig </item>
+        <item>Ljubovija </item>
+        <item>Lovćenac </item>
+        <item>Loznica </item>
+        <item>Lučani </item>
+        <item>Majdanpek </item>
+        <item>Mali Iđoš </item>
+        <item>Mali Zvornik </item>
+        <item>Malo Crniće </item>
+        <item>Medveđa </item>
+        <item>Merošina </item>
+        <item>Mionica </item>
+        <item>Mladenovac </item>
+        <item>Negotin </item>
+        <item>Niš </item>
+        <item>Niška Banja </item>
+        <item>Nova Crnja </item>
+        <item>Nova Pazova </item>
+        <item>Nova Varoš </item>
+        <item>Novi Banovci</item>
+        <item>Novi Bečej </item>
+        <item>Novi Kneževac </item>
+        <item>Novi Pazar </item>
+        <item>Novi Sad </item>
+        <item>Novo Brdo </item>
+        <item>Novo Miloševo </item>
+        <item>Obilić </item>
+        <item>Obrenovac </item>
+        <item>Odžaci </item>
+        <item>Opovo </item>
+        <item>Orahovac </item>
+        <item>Osečina </item>
+        <item>Palić </item>
+        <item>Pančevo</item>
+        <item>Paraćin</item>
+        <item>Petrovac na Mlavi </item>
+        <item>Peć </item>
+        <item>Pećinci</item>
+        <item>Pirot </item>
+        <item>Plandište </item>
+        <item>Podujevo </item>
+        <item>Popovac </item>
+        <item>Požarevac</item>
+        <item>Požega </item>
+        <item>Preševo </item>
+        <item>Priboj </item>
+        <item>Prijepolje</item>
+        <item>Prizren </item>
+        <item>Priština </item>
+        <item>Prokuplje </item>
+        <item>Putinci </item>
+        <item>Rača </item>
+        <item>Raška </item>
+        <item>Ražanj </item>
+        <item>Rekovac </item>
+        <item>Ruma </item>
+        <item>Senta</item>
+        <item>Sečanj </item>
+        <item>Sjenica </item>
+        <item>Smederevo </item>
+        <item>Smederevska Palanka </item>
+        <item>Sokobanja </item>
+        <item>Sombor </item>
+        <item>Sopot </item>
+        <item>Srbica </item>
+        <item>Srbobran </item>
+        <item>Sremska Kamenica</item>
+        <item>Sremska Mitrovica </item>
+        <item>Sremski Karlovci </item>
+        <item>Stara Pazova </item>
+        <item>Stari Banovci </item>
+        <item>Subotica </item>
+        <item>Surdulica </item>
+        <item>Surčin </item>
+        <item>Suva Reka </item>
+        <item>Svilajnac </item>
+        <item>Svrljig </item>
+        <item>Temerin </item>
+        <item>Titel </item>
+        <item>Topola </item>
+        <item>Trgovište </item>
+        <item>Trstenik </item>
+        <item>Tutin </item>
+        <item>Ub </item>
+        <item>Uroševac</item>
+        <item>Užice </item>
+        <item>Valjevo </item>
+        <item>Varvarin </item>
+        <item>Velika Plana </item>
+        <item>Veliko Gradište </item>
+        <item>Veternik </item>
+        <item>Vitina</item>
+        <item>Vladimirci </item>
+        <item>Vladičin Han </item>
+        <item>Vlasotince </item>
+        <item>Vranje </item>
+        <item>Vrbas </item>
+        <item>Vrdnik </item>
+        <item>Vreoci </item>
+        <item>Vrnjačka Banja </item>
+        <item>Vršac </item>
+        <item>Vučitrn </item>
+        <item>Zaječar</item>
+        <item>Zemun Polje </item>
+        <item>Zlatibor </item>
+        <item>Zrenjanin </item>
+        <item>Zubin Potok</item>
+        <item>Zvečan </item>
+        <item>Ðakovica </item>
+        <item>Ćićevac </item>
+        <item>Ćuprija </item>
+        <item>Čajetina </item>
+        <item>Čačak </item>
+        <item>Čelarevo </item>
+        <item>Čoka</item>
+        <item>Čurug </item>
+        <item>Šabac </item>
+        <item>Šid </item>
+        <item>Šimanovci </item>
+        <item>Štimlje </item>
+        <item>Štrpce </item>
+        <item>Žabalj </item>
+        <item>Žabari</item>
+        <item>Žagubica </item>
+        <item>Žitište </item>
+        <item>Žitorađa </item>
+    </string-array>
+
+    <string-array name="Cena">
+        <item>Izaberite raspon cena usluge u dinarima</item>
+        <item>0-500</item>
+        <item>500-1000</item>
+        <item>1000-5000</item>
+        <item>5000+</item>
+    </string-array>
+</resources>
